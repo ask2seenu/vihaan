@@ -1,0 +1,18 @@
+[submodule "LoveIt"]
+	path = LoveIt
+	url = https://github.com/dillonzq/LoveIt.git
+[submodule "themes/LoveIt"]
+	path = themes/LoveIt
+	url = https://github.com/dillonzq/LoveIt.git
+[submodule "themes/loveit"]
+	path = themes/loveit
+	url = https://github.com/dillonzq/LoveIt.git
+[submodule "themes/themes/loveit"]
+	path = themes/themes/loveit
+	url = https://github.com/dillonzq/LoveIt.git
+[submodule "themes/ink-free"]
+	path = themes/ink-free
+	url = https://github.com/chollinger93/ink-free
+[submodule "themes/hugo-coder"]
+	path = themes/hugo-coder
+	url = https://github.com/luizdepra/hugo-coder.git
